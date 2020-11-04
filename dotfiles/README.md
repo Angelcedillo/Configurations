@@ -3,7 +3,7 @@
 
 ***Language***
 - 🇪🇸 Español
-- [🇺🇸 English]
+- [🇺🇸 English](README.md)
 
 ***Quick Links***
 - *Window manager configs*
