@@ -1,6 +1,5 @@
-# Dotfiles & Configs
 
-![Qtile](.screenshots/qtile.png)
+# Dotfiles & Configs
 
 ***Idioma***
 - 🇪🇸 Español
