@@ -2,8 +2,7 @@
 # Dotfiles & Configs
 
 ***Language***
-- 🇪🇸 Español
-- [🇺🇸 English](README.md)
+- [🇪🇸 Español](README.md)
 
 ***Quick Links***
 - *Window manager configs*
