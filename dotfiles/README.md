@@ -2,7 +2,7 @@
 # Dotfiles & Configs
 
 ***Language***
-- 🇪🇸 Español(./README.es.md)
+- 🇪🇸 Español
 - [🇺🇸 English]
 
 ***Quick Links***
