@@ -8,9 +8,9 @@ Una Vez entrando al link, deberas seleccionar la ISO de el pais donde te encuent
 
 # Una vez descargada la ISO.
  
- Tendremos que bootear el Pendrive. Se pueden ocupar diferentes programas para bootear Pendrives facilmente como:
+Tendremos que bootear el Pendrive. Se pueden ocupar diferentes programas para bootear Pendrives facilmente como:
  
 - rufus
 - yumi
 - ultraISO
-   etc...
+Etc...
