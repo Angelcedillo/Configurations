@@ -34,8 +34,6 @@ iwconfig wlan0 essid "nombre de tu red sinn comillas" key s:"contraseña de tu r
 **para wifi con seguridad wpa/wpa2**
 ```bash
 wpa_passphrase "nombre de tu red sin comillas" "contraseña de tu red sin comillas" > /etc/wifi 
-```
-```bash
 wpa_supplicant -B -i wlan0 -D wext -c /etc/wifi
 ```
 Al momento de realizar los comandos anteriores saldran unos mensajes de error, pero no pasa nada, la conexion ya esta lista, lo podemos verificar con un Ping a cualquier pagina.
