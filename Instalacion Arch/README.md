@@ -10,7 +10,7 @@ Lo primero y lo mas importante, Deberas bootear un Pendrive con la ISO oficial d
  
  Tendremos que bootear el Pendrive. Se pueden ocupar diferentes programas para bootear Pendrives facilmente como:
  
--rufus
--yumi
--ultraISO
- etc...
+ -rufus
+ -yumi
+ -ultraISO
+  etc...
