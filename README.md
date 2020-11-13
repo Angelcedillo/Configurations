@@ -5,5 +5,5 @@ Aqui se encontrara toda mi documentacion relacionada a instalaciones y configura
 ![InstalacionArch](images/3.jpg)
 
 ***Accesos Rapidos***
- - [Instalacion Arch](https://github.com/Angelcedillo/Documentacion/tree/main/Instalacion%20Arch)
- - [Entorno Qtile]
+- [Instalacion Arch](https://github.com/Angelcedillo/Documentacion/tree/main/Instalacion%20Arch)
+- [Entorno Qtile]
