@@ -47,5 +47,7 @@ Si el ping manda respuesta de conexion con la pagina, Felicidades ya tienes cone
 
 En este apartado cada Usuario puede particionar diferente el disco, pero yo suelo ocupar esta particion en todas mis instalaciones de ArchLinux.
 
-Sin tomar en cuenta las particiones de: **boot windows y disco c:** te explicare como particionar el espacio que necesita ArchLinux. 
 ![InstalacionArch](../images/Particion.jpeg)
+
+Sin tomar en cuenta las particiones de: **boot windows y disco c:** te explicare como particionar el espacio que necesita ArchLinux. 
+
