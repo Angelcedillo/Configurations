@@ -4,4 +4,4 @@
 ![InstalacionArch](images/3.jpg)
 
 ***Quick Links***
-[Instalacion Arch]
+[Instalacion Arch](https://github.com/Angelcedillo/Documentacion/tree/main/Instalacion%20Arch)
