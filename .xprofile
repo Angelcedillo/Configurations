@@ -1,8 +1,0 @@
-xrandr --output eDP-1 --primary --mode 1366x768 --pos 0x768 --rotate normal --output HDMI-1 --mode 1360x768 --pos 3x0 --rotate normal
-feh -z --bg-fill Images/bg/9.jpg
-setxkbmap latam &
-nm-applet &
-udiskie -t &
-volumeicon &
-cbatticon &
-picom &
