@@ -75,5 +75,5 @@ Ahora seleccionaremos el espacio libre disponible y volveremos a dar en nuevo, E
 
 Listo, a esta particion no hay que cambiarle el tipo de particion, ya que por defecto la marca con el tipo que necesitamos, en este caso, **Linux**.
 
-Solo nos ueda dar enter en la opcion **Escribir** y las particiones se habran guardado correctamente.
+Solo nos queda dar enter en la opcion **Escribir** y las particiones se habran guardado correctamente.
 
