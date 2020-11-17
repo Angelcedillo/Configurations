@@ -66,3 +66,14 @@ Una vez abierto cfdisk haremos las siguientes particiones: **(cada particion dep
 en cfdisk seleccionaremos un espacio libre selecciona para ArchLinux, y daremos click en la opcion Nuevo.
 
 ![Cfdisk](../images/Cfdisk.jpg)
+
+Esta particion la asignaremos como primaria y le asignaremos 2GB. de espacio.
+
+Despues seleccionaremos esa misma particion y seleccioanremos ahora la opcion de **Tipo** y seleccioanremos **swap**.
+
+Ahora seleccionaremos el espacio libre disponible y volveremos a dar en nuevo, Esta vez a esta particion la dejaremos con el espacio restante, para ello damos un enter.
+
+Listo, a esta particion no hay que cambiarle el tipo de particion, ya que por defecto la marca con el tipo que necesitamos, en este caso, **Linux**.
+
+Solo nos ueda dar enter en la opcion **Escribir** y las particiones se habran guardado correctamente.
+
