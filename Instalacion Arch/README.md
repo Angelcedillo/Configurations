@@ -77,3 +77,6 @@ Listo, a esta particion no hay que cambiarle el tipo de particion, ya que por de
 
 Solo nos queda dar enter en la opcion **Escribir** y las particiones se habran guardado correctamente.
 
+![Cfdisk](../images/IMG_20201116_190948.jpg)
+
+Listo, Asi es como nos deberian de quedar nuestras particiones.
