@@ -51,3 +51,16 @@ En este apartado cada Usuario puede particionar diferente el disco, pero yo suel
 
 Sin tomar en cuenta las particiones de: **boot windows y disco c:** te explicare como particionar el espacio que necesita ArchLinux. 
 
+ocuparemos la particion de intercambio (opcional), mejor conocida como **SWAP**, y la particion de montaje donde vendran las particiones de **Boot, Home y Root**.
+
+Para comenzar a particionar el disco ocuparemis una herramienta de terminal llamada **cfdisk**. Ocuparemos el siguiente comando:
+
+```bash
+cfdisk /dev/sda
+```
+
+Normalmente **/dev/sda** es el disco por defecto de la computadora.
+
+Una vez abierto cfdisk haremos las siguientes particiones: **(cada particion depende del tamaño de disco y si es un solo Sistema operativo o mas)**
+
+en cfdisk seleccionaremos un espacio libre selecciona para ArchLinux, y daremos click en la opcion Nuevo 
