@@ -80,3 +80,5 @@ Solo nos queda dar enter en la opcion **Escribir** y las particiones se habran g
 ![Cfdisk](../images/IMG_20201116_190948.jpg)
 
 Listo, Asi es como nos deberian de quedar nuestras particiones.
+
+Lo siguiente que tenemos que hacer es formatear las particiones que hemos creado, para esto hacemos lo siguiente:
