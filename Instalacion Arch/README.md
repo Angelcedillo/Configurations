@@ -63,4 +63,6 @@ Normalmente **/dev/sda** es el disco por defecto de la computadora.
 
 Una vez abierto cfdisk haremos las siguientes particiones: **(cada particion depende del tamaño de disco y si es un solo Sistema operativo o mas)**
 
-en cfdisk seleccionaremos un espacio libre selecciona para ArchLinux, y daremos click en la opcion Nuevo 
+en cfdisk seleccionaremos un espacio libre selecciona para ArchLinux, y daremos click en la opcion Nuevo.
+
+![Cfdisk](../images/Cfdisk.jpg)
