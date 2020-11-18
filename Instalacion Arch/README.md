@@ -69,7 +69,7 @@ en cfdisk seleccionaremos un espacio libre selecciona para ArchLinux, y daremos 
 
 Esta particion la asignaremos como primaria y le asignaremos 2GB. de espacio.
 
-Despues seleccionaremos esa misma particion y seleccioanremos ahora la opcion de **Tipo** y seleccioanremos **swap**.
+Despues seleccionaremos esa misma particion y seleccioanremos ahora la opcion de **Tipo** y seleccionaremos **swap**.
 
 Ahora seleccionaremos el espacio libre disponible y volveremos a dar en nuevo, Esta vez a esta particion la dejaremos con el espacio restante, para ello damos un enter.
 
@@ -82,3 +82,18 @@ Solo nos queda dar enter en la opcion **Escribir** y las particiones se habran g
 Listo, Asi es como nos deberian de quedar nuestras particiones.
 
 Lo siguiente que tenemos que hacer es formatear las particiones que hemos creado, para esto hacemos lo siguiente:
+
+**Primero para la particion de SWAP**
+```bash
+mkswap /dev/sdaX
+swapon /dev/sdaX
+```
+Donde X se cambia por la particion donde se creo swap.
+
+**Para la segunda particion**
+```bash
+mkfs.ext4 /dev/sdaX
+```
+Donde X se cambia por la particion donde se creo.
+
+# Montar las particiones.
